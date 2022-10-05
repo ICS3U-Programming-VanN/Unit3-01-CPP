@@ -9,7 +9,6 @@
 #include <iostream>
 
 int main() {
-    
     // Declared Constants
     const float ALBERTA_GST = 0.05;
 
